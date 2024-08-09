@@ -1,0 +1,6 @@
+{
+    "output_log"        : false,
+    "bot_token"         : "<TOKEN DO BOT>",
+    "log_directory"     : "./_log",
+    "file_directory"    : "./_files"
+}

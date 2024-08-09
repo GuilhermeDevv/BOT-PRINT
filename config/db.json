@@ -1,0 +1,8 @@
+{
+    "server"    : "<SERVER>",
+    "database"  : "<DATABASE>",	
+    "username"  : "<USERNAME>",
+    "password"  : "<PASSWORD>",
+    "provider"  : "<NOME DO PROVIDER(BANCO)>",
+    "procedure" : "<NOME DA PROCEDURE>"
+}

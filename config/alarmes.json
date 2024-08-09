@@ -1,0 +1,15 @@
+[   
+{
+    "tipo"          : "pagina",
+    "nome"          : "<NOME DO ARQUIVO>",
+    "chatId"        : "<ID DO CHAT TELEGRAM>",
+    "url"           : "<LINK DA APLICAÇÃO>",
+    "arquivo"       : "gestao.png",
+    "tempoEspera"   : 10,
+    "horarioIni"    : "05:05",
+    "horarioFim"    : "23:30",
+    "intervalo"     : 30,
+    "ultimoEnvio"   : ""
+}
+]
+
